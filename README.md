@@ -56,8 +56,11 @@ This repository contains a script to automate the setup and configuration of mac
 ### Homebrew Formulae:
 - **[AWS CLI](https://aws.amazon.com/cli/)**: A unified tool to manage AWS services from the command line.
 - **[CocoaPods](https://cocoapods.org/)**: A dependency manager for Swift and Objective-C Cocoa projects.
+- **[fzf](https://github.com/junegunn/fzf)**: A command-line fuzzy finder.
 - **[mas](https://github.com/mas-cli/mas)**: A command-line interface for the Mac App Store.
+- **[neovim](https://neovim.io/)**: A hyperextensible Vim-based text editor.
 - **[nvm](https://github.com/nvm-sh/nvm)**: Node Version Manager - Simple bash script to manage multiple active Node.js versions.
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)**: A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - **[Stern](https://github.com/stern/stern)**: Tail multiple Kubernetes pods and containers in real time.
 - **[Watchman](https://facebook.github.io/watchman/)**: A tool by Facebook for watching changes in the filesystem and triggering actions.
 
