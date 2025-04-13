@@ -64,22 +64,22 @@ defaults write com.apple.finder FXRemoveOldTrashItems -bool true
 
 
 # -------------------
-# Hot Corners
+# Hot Corners (requires ⌘)
 # -------------------
 echo "Configuring hot corners..."
 
-# Bottom-left corner: Start screen saver (requires ⌘)
+# ↙️ Bottom-Left – Screen saver
 defaults write com.apple.dock wvous-bl-corner -int 5 
 defaults write com.apple.dock wvous-bl-modifier -int 1048576 
 
-# Bottom-right corner: Quick Note (requires ⌘)
+# ↘️ Bottom-Right – Quick Note
 defaults write com.apple.dock wvous-br-corner -int 14 
 defaults write com.apple.dock wvous-br-modifier -int 1048576 
 
-# Top-left corner: Lock screen (requires ⌘)
+# ↖️ Top-Left – Lock screen
 defaults write com.apple.dock wvous-tl-corner -int 13 
 defaults write com.apple.dock wvous-tl-modifier -int 1048576 
 
-# Top-right corner: Notification Center (requires ⌘)
+# ↗️ Top-Right – Notification Center
 defaults write com.apple.dock wvous-tr-corner -int 12 
 defaults write com.apple.dock wvous-tr-modifier -int 1048576 
