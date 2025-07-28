@@ -85,7 +85,6 @@ This repository contains a script to automate the setup and configuration of mac
 - **[Affinity Designer 1](https://affinity.serif.com/en-gb/designer/)**: A powerful vector graphic design tool (version 1).
 - **[Affinity Photo 1](https://affinity.serif.com/en-gb/photo/)**: A professional photo editing software (version 1).
 - **[Android Studio](https://developer.android.com/studio)**: The official IDE for Android development.
-- **[Brave Browser](https://brave.com/)**: A privacy-focused web browser.
 - **[ChatGPT](https://chat.openai.com/)**: Desktop app for interacting with OpenAI's ChatGPT.
 - **[Claude](https://claude.ai/)**: An AI assistant developed by Anthropic.
 - **[Discord](https://discord.com/)**: A communication platform for voice, video, and text.
